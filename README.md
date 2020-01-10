@@ -13,9 +13,9 @@ Implementação de bot do Telegram com Jenkins.
 ------------------------------
 # Ajustes do bot
 - Adicionar o bot em um grupo/chat
-- Acessar https://api.telegram.org/bot<token>/getUpdates
+- Acessar https://api.telegram.org/bot<token_>/getUpdates
 - Digitar um comando no grupo/chat
-- Acessar novamente https://api.telegram.org/bot<token>/getUpdates, pegar o id do grupo/chat
+- Acessar novamente https://api.telegram.org/bot<token_>/getUpdates, pegar o id do grupo/chat
 
 ------------------------------
 # Testar bot
