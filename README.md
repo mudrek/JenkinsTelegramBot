@@ -19,7 +19,7 @@ Implementação de bot do Telegram com Jenkins.
 
 ------------------------------
 # Testar bot
-- https://api.telegram.org/bot<Bot_token>/sendMessage?text=<Texto>&chat_id=<ChatId>
+- https://api.telegram.org/bot<Bot_token>/sendMessage?text=<Mensagem_>&chat_id=<ChatId_>
 
 ------------------------------
 # Configuração Jenkins
