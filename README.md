@@ -23,7 +23,15 @@ Implementação de bot do Telegram com Jenkins.
 
 ------------------------------
 # Configuração Jenkins
+- Manage Jenkins/Manage Plugins/Available
+  - Instalar Telegram Bot Plugin
+  - Reiniciar Jenkins
+- Manage Jenkins/Configure System
+  - Configurar o bot na configuração TelegramBot, inserindo o nome do bot e o token
 
 ------------------------------
-#JenkinsFile
+# JenkinsFile
+- Comando para enviar mensagem para o bot
+
+  telegramSend(message: TEXTO, chatId: CHATID)
 
